@@ -1,0 +1,27 @@
+git pasos  -- https://git-scm.com/downloads
+
+0- git -v
+1- git config --global user.name "tu nombre"
+2- git config --global user.email "tu email"
+3- git config user.name (verificamos los datos)
+4- git config user.email (verificamos los datos)
+5- git init (damos inicio a nuestro repo)
+6- git status (verificamos si hay cambios en los archivos)
+7- git add . (preparamos los archivos para mandar al repositorio)
+8- git commit -m "mensaje" (commitamos/guardamos los cambios en el repo)
+9- git remote add origin https://github.com/LauraNE2023/practicaGithub.git (conetamos repo local con remoto)
+10- git push origin master (o la rama que sea)
+11- git pull origin master (para traerme lo nuevo del repo remoto)
+
+
+
+
+
+*para borrar datos
+git config --global --unset user.name 
+git config --global --unset user.email
+
+
+459ee2a (HEAD -> master) agregamos h2, h3 y texto de git
+47f22d2 agregamos holagit.html
+1ac08fa iniciamos trabajo con sass
