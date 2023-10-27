@@ -12,6 +12,10 @@ git pasos  -- https://git-scm.com/downloads
 9- git remote add origin https://github.com/LauraNE2023/practicaGithub.git (conetamos repo local con remoto)
 10- git push origin master (o la rama que sea)
 11- git pull origin master (para traerme lo nuevo del repo remoto)
+12- git branch seo (creo una rama)
+13- git checkout seo (me paso de rama)
+14- git push origin seo (pusheo la rama)
+15- git merge seo (estando en master fusiono seo)
 
 
 
